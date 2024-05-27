@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\ICBT\3rd Semester\Microcontrollers\1069825_5505icbtel\PIC16F877A\PIC16F877A.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\ICBT\3rd Semester\Microcontrollers\1069825_5505icbtel\PIC16F877A\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"D:\ICBT\3rd Semester\Microcontrollers\1069825_5505icbtel\PIC16F877A\" "PIC16F877A.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_A_C.mcl" "__Lib_PWM_c21.mcl"	 
+diagnostics: 0	122	Compilation Started	PIC16F877A.c
+diagnostics: 82	123	Compiled Successfully	PIC16F877A.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+diagnostics: 0	125	Project Linked Successfully	PIC16F877A.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'PIC16F877A.mcppi' completed: 140 ms	 
+diagnostics: 0	103	Finished successfully: 30 Apr 2024, 16:51:22	PIC16F877A.mcppi
